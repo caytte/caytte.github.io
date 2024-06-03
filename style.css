@@ -1,8 +1,12 @@
 body {
   background: #edf1f2;
+  text-align: center;
   margin: 0;
   padding: 0;
   width: 100%;
+}
+#wrap{
+  width: 70%;
 }
 header {
   background: #edf1f2;
